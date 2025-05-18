@@ -64,6 +64,20 @@ Pathetic Hosting
 
 ---
 
+Balance the Pond
+----------------
+
+<img src="images/BalanceThePond.png" height="200">
+
+- Link: [https://github.com/mychecknix/BalanceThePond](https://github.com/mychecknix/BalanceThePond)
+- Contributors:
+  - Lisetta
+  - Flelix
+  - [mychecknix](https://github.com/mychecknix)
+- Description: A fox is searching for a new home. The pond should it be, but it is not in balance. Trash and unhappy creatures make the pond out of balance
+
+---
+
 MyAwesomeGame (example)
 -----------------------
 
